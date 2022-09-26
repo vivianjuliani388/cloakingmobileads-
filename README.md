@@ -3,7 +3,7 @@ Cloaking Mobile Version banner ADS
 Panduan Langkah untuk Cloaking google adwords untuk versi mobile :
 
 #ScriptStyle 👇🏻👇🏻👇🏻
-<style>@media (min-width:1025px){.ads-hitam{display:none}}@media (max-width:1025px){.pcagen{display:none}body{background:#000!important}.ads-hitam{height:100%}}</style>
+Klik link https://github.com/vivianjuliani388/cloakingmobileads-/blob/main/style.css
 
 #ScriptHTMLmobile 👇🏻👇🏻👇🏻
 <div class="ads-hitam"><a href="https://bit.ly/3CvGTYC" rel="nofollow" target="_blank"><img width="100%" height="auto"
