@@ -7,7 +7,7 @@ Panduan Langkah untuk Cloaking google adwords untuk versi mobile :
 
 #ScriptHTMLmobile 👇🏻👇🏻👇🏻
 <div class="ads-hitam"><a href="https://bit.ly/3CvGTYC" rel="nofollow" target="_blank"><img width="100%" height="auto"
-        src="https://i.postimg.cc/SNwVhpM6/Mobile-GIF-1.gif"></a></div>
+        src="https://i.postimg.cc/6pdB64Rw/image.png"></a></div>
 
 * Masukan script style copy script di atas mulai dari dari <style> samapai penutupnya </style>. Letakan sebelum tutup html </head> (Control Find cari </head>) lihat di gambar link ini https://i.postimg.cc/4d24cCB1/image.png
 
