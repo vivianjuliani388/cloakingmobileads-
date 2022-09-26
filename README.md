@@ -12,7 +12,7 @@ Klik link https://github.com/vivianjuliani388/cloakingmobileads-/blob/main/index
 
 * Masukan script style copy script di atas mulai dari dari <style> samapai penutupnya </style>. Letakan sebelum tutup html </head> (Control Find cari </head>) lihat di gambar link ini https://i.postimg.cc/4d24cCB1/image.png
 
-* Tambahkan tag html <div class="pcagen"> di bawah tag html <body> lihat contoh gambar ini https://prnt.sc/sUdGK0geJycY
+* Tambahkan tag html < div class="pcagen" > di bawah tag html <body> lihat contoh gambar ini https://prnt.sc/sUdGK0geJycY
 
 * Tambahkan penutup tag html </div> di atas tag html </body> lihat contoh gambar ini https://prnt.sc/1mgTDC5NDwLO
 
