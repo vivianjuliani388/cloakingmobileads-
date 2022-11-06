@@ -1,4 +1,4 @@
-# cloakingmobileads-
+# cloakingmobileads- Tim Sukses Terus
 Cloaking Mobile Version banner ADS 
 Panduan Langkah untuk Cloaking google adwords untuk versi mobile :
 
